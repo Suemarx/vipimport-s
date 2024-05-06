@@ -2,7 +2,7 @@
 
 body
 {
-    background-image: linear-gradient(50deg, Yellow, Black );
+    background-image: linear-gradient(70deg, Yellow, Black );
     color: black;
     font-size: 12pt;
     font-family:Arial, Helvetica, sans-serif;
@@ -10,10 +10,9 @@ body
     text-decoration: none;
 }
 
-{
-    h1
-  
-    background-image: linear-gradient(50deg, Yellow, Black );
+h1
+{  
+    background-image: linear-gradient(270deg, gray, white );
     background-color: aqua;
     color: black;
     font-size: 30pt;
@@ -21,17 +20,16 @@ body
     text-align: center;
 }
 
+p
 {
-    p
-    color: Black;
+    color: black;
     font-size: 16pt;
     font-family:Arial, Helvetica, sans-serif;
     text-align: center;
 }
 
+h2
 {
-    h2
-
     color: black;
     font-size: 30pt;
     font-family:Arial;
@@ -49,7 +47,7 @@ li
 
 a
 {
-    color: white;
+    color: blue;
     font-size: 20pt;
     font-family:Arial;
     text-align: center;
